@@ -1,5 +1,5 @@
 # TODO: Change the name of the org 
-org: trungle
+org: thanhluong
 app: serverless-item-app
 service: serverless-item-app
 frameworkVersion: '3'
